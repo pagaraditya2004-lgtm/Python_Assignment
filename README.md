@@ -1,50 +1,72 @@
 Python Assignments
 
-This repository contains my Python programming assignments and practice programs, organized into separate folders for easy navigation.
+This repository contains my Python programming assignments, exercises, and practice programs. All assignments are organized into individual folders for easy navigation and maintenance.
 
-Repository Structure
+📂 Repository Structure
 
-Each folder contains the code and related files for an individual assignment.
+The repository includes the following assignments:
 
-- Assignment2
-- Assignment26
-- Assignment27
-- Assignment28
-- Assignment29
-- Assignment30
-- Assignment31
-- Assignment32
-- Assignment33
-- Assignment34
+- "Assignment9"
+- "Assignment10"
+- "Assignment11"
+- "Assignment12"
+- "Assignment13"
+- "Assignment14"
+- "Assignment15"
+- "Assignment16"
+- "Assignment17"
+- "Assignment18"
+- "Assignment19"
+- "Assignment20"
+- "Assignment21"
+- "Assignment22"
+- "Assignment23"
+- "Assignment26"
+- "Assignment27"
+- "Assignment28"
+- "Assignment29"
+- "Assignment30"
+- "Assignment31"
+- "Assignment32"
+- "Assignment33"
+- "Assignment34"
+- "Assignment38"
 
-Technologies Used
+Additional folders and files may be included as the repository grows.
+
+🛠️ Technologies Used
 
 - Programming Language: Python
 - Code Editor: Visual Studio Code
 - Version Control: Git and GitHub
 
-How to Run
+🚀 How to Run
 
 1. Clone or download this repository.
 
-2. Open the required assignment folder in Visual Studio Code.
+2. Open the repository folder in Visual Studio Code.
 
 3. Ensure Python is installed on your system.
 
-4. Run the required Python file using the terminal:
+4. Open the assignment folder you want to run.
+
+5. Execute the required Python file in the terminal:
    
    python filename.py
    
-   Replace "filename.py" with the actual Python filename.
+   Replace "filename.py" with the actual Python file name.
 
-Purpose
+🎯 Purpose
 
-This repository is maintained to practice Python programming, improve problem-solving skills, and keep my assignments organized in one place.
+- Practice Python programming concepts.
+- Improve logical thinking and problem-solving skills.
+- Maintain assignments in a single, organized repository.
+- Track my learning and progress in Python.
 
-Author
+👨‍💻 Author
 
 Aditya Pagar
 
 ---
 
-Learning Python one assignment at a time.
+Learning, practicing, and improving one assignment at a time.
