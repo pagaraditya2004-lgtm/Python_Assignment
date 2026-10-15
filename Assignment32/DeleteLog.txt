@@ -1,0 +1,9 @@
+--------------------------------------------------
+Execution Time : 2026-07-25 22:55:16.052825
+Directory      : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir
+Deleted : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\A.txt
+Deleted : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\B.txt
+Deleted : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\C.txt
+Deleted : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\D.txt
+Total Empty Files Deleted : 4
+--------------------------------------------------

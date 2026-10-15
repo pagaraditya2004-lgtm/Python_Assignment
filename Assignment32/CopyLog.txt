@@ -1,0 +1,20 @@
+--------------------------------------------------
+Copy Time : 2026-07-25 22:48:57.257866
+Source    : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir
+Destination : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir_copy
+Copied : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\A.txt
+Copied : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\B.txt
+Copied : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\C.txt
+Copied : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\D.txt
+Total Files Copied : {copied_files}
+--------------------------------------------------
+--------------------------------------------------
+Copy Time : 2026-07-25 22:49:07.326024
+Source    : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir
+Destination : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir_copy
+Copied : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\A.txt
+Copied : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\B.txt
+Copied : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\C.txt
+Copied : C:\Users\Dhiraj\OneDrive\Desktop\Marvellous\Assignment\txtdir\D.txt
+Total Files Copied : {copied_files}
+--------------------------------------------------
